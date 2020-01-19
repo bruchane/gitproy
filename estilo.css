@@ -1,0 +1,12 @@
+body{
+    background-color: cornsilk;
+}
+
+.foot{
+    background-color: blue;
+    
+}
+
+.foot > p{
+    color: white;
+}
